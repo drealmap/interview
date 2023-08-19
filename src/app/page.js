@@ -19,7 +19,7 @@ export default function Home() {
 
       <main className="flex w-screen h-[90vh] mt-1">
         <div className="w-[40vw] bg-gray-50 flex flex-col items-center justify-center">
-          <h3 className=" font-bold text-[30px] mb-2.5 ">We've Missed You</h3>
+          <h3 className=" font-bold text-[30px] mb-2.5 ">We&apos;ve Missed You</h3>
           <p className="text-lg mb-2.5 max-w-xs">
             Kindly signin and get first access to the very best, community and
             unlock more opportunities.
@@ -43,7 +43,7 @@ export default function Home() {
           </form>
           <div className=" w-full pl-[110px]">
           <p className="text-xs mt-2.5">Forgot username or password?</p>
-          <p className="text-xs mt-2.5">Don't have an account? <Link href="" className="text-[#0000FF]">Sign up </Link></p>
+          <p className="text-xs mt-2.5">Don&apos;t have an account? <Link href="" className="text-[#0000FF]">Sign up </Link></p>
           </div>
         </div>
         <div className="relative">
